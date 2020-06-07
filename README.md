@@ -1,4 +1,4 @@
-# PowerBI
+# PowerBI Dashboard
 Understanding and getting familiar with PowerBI tool by creating a dashboarrd.
 
 Dataset-https://www.kaggle.com/pruthvi1995/superstore-sales
